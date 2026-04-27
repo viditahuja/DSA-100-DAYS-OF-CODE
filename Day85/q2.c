@@ -26,4 +26,4 @@ int main() {
     printf("%d", findMin(nums, n));
 
     return 0;
-}
+}D
